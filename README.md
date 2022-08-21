@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo @Fagner-Krowan
-- 👀 Estou interessado em desenvolver meus conhecimentos na área de programação, atualmente trabalho como Analista de Suporte, busco mudar de profissão daqui a um tempo.
+- 👀 Estou interessado em desenvolver meus conhecimentos na área de programação, atualmente trabalho como Analista de Suporte, busco mudar para área de desenvolvimento daqui a um tempo. Vou publicando meu progresso aqui :)
 - 🌱 Atualmente estou cursando ADS, estudando algoritmos e lógica com Python.
 
 
